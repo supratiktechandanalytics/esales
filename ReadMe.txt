@@ -1,4 +1,4 @@
-Business Analytics With Excel
+Data Analytics With Excel
 -----------------------------------
 E-Commerce Sales Dashboard
 -----------------------------------
